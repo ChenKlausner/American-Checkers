@@ -1,0 +1,2 @@
+C:\Users\sklau\Desktop\Chen\תרגילים קורס C#\B22 Ex05 ShakedBason 209512334 ChenKlausner 207652074\CheckersGameUI\obj\Debug\CheckersGameUI.csproj.AssemblyReference.cache
+C:\Users\sklau\Desktop\Chen\תרגילים קורס C#\B22 Ex05 ShakedBason 209512334 ChenKlausner 207652074\CheckersGameUI\obj\Debug\CheckersGameUI.csproj.SuggestedBindingRedirects.cache

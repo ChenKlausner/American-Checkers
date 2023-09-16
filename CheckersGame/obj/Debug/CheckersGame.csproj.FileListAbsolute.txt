@@ -1,0 +1,7 @@
+C:\Users\sklau\Desktop\Chen\תרגילים קורס C#\B22 Ex05 ShakedBason 209512334 ChenKlausner 207652074\CheckersGame\bin\Debug\CheckersGame.dll.config
+C:\Users\sklau\Desktop\Chen\תרגילים קורס C#\B22 Ex05 ShakedBason 209512334 ChenKlausner 207652074\CheckersGame\bin\Debug\CheckersGame.dll
+C:\Users\sklau\Desktop\Chen\תרגילים קורס C#\B22 Ex05 ShakedBason 209512334 ChenKlausner 207652074\CheckersGame\bin\Debug\CheckersGame.pdb
+C:\Users\sklau\Desktop\Chen\תרגילים קורס C#\B22 Ex05 ShakedBason 209512334 ChenKlausner 207652074\CheckersGame\obj\Debug\CheckersGame.csproj.AssemblyReference.cache
+C:\Users\sklau\Desktop\Chen\תרגילים קורס C#\B22 Ex05 ShakedBason 209512334 ChenKlausner 207652074\CheckersGame\obj\Debug\CheckersGame.csproj.CoreCompileInputs.cache
+C:\Users\sklau\Desktop\Chen\תרגילים קורס C#\B22 Ex05 ShakedBason 209512334 ChenKlausner 207652074\CheckersGame\obj\Debug\CheckersGame.dll
+C:\Users\sklau\Desktop\Chen\תרגילים קורס C#\B22 Ex05 ShakedBason 209512334 ChenKlausner 207652074\CheckersGame\obj\Debug\CheckersGame.pdb
